@@ -1,0 +1,12 @@
+2016-06-07 19:00:34,593 main INFO  a00977249.Gis - 2016-06-08T02:00:28.421Z
+2016-06-07 19:00:34,919 main INFO  a00977249.Gis - No arguments were passed, Generating report...
+2016-06-07 19:00:34,920 main DEBUG a00977249.Gis - Created Gis
+2016-06-07 19:00:34,929 main DEBUG a00977249.Gis - GameReader
+2016-06-07 19:00:34,930 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/out/games.dat
+2016-06-07 19:00:34,949 main DEBUG a00977249.Gis - PersonaReader
+2016-06-07 19:00:34,949 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/out/personas.dat
+2016-06-07 19:00:34,965 main DEBUG a00977249.Gis - PlayerReader
+2016-06-07 19:00:34,965 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/out/players.dat
+2016-06-07 19:00:34,973 main DEBUG a00977249.Gis - ScoreReader
+2016-06-07 19:00:34,974 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/out/scores.dat
+2016-06-07 19:00:35,091 main INFO  a00977249.Gis - 2016-06-08T02:00:35.091Z

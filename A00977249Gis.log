@@ -1,0 +1,69 @@
+2016-06-28 12:30:58,241 main INFO  a00977249.Gis - 2016-06-28T19:30:57.256Z
+2016-06-28 12:30:58,344 main INFO  a00977249.Gis - No arguments were passed, Generating report...
+2016-06-28 12:30:58,344 main DEBUG a00977249.Gis - Created Gis
+2016-06-28 12:30:58,373 main DEBUG a00977249.Gis - GameReader
+2016-06-28 12:30:58,373 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/games.dat
+2016-06-28 12:30:58,430 main DEBUG a00977249.Gis - PersonaReader
+2016-06-28 12:30:58,431 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/personas.dat
+2016-06-28 12:30:58,448 main DEBUG a00977249.Gis - PlayerReader
+2016-06-28 12:30:58,449 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/players.dat
+2016-06-28 12:30:58,474 main DEBUG a00977249.Gis - ScoreReader
+2016-06-28 12:30:58,474 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/scores.dat
+2016-06-28 12:30:58,673 main INFO  a00977249.Gis - 2016-06-28T19:30:58.673Z
+2016-06-28 12:32:39,397 main INFO  a00977249.Gis - 2016-06-28T19:32:38.472Z
+2016-06-28 12:32:39,500 main INFO  a00977249.Gis - No arguments were passed, Generating report...
+2016-06-28 12:32:39,501 main DEBUG a00977249.Gis - Created Gis
+2016-06-28 12:32:39,502 main DEBUG a00977249.Gis - GameReader
+2016-06-28 12:32:39,503 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/games.dat
+2016-06-28 12:32:39,510 main DEBUG a00977249.Gis - PersonaReader
+2016-06-28 12:32:39,510 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/personas.dat
+2016-06-28 12:32:39,514 main DEBUG a00977249.Gis - PlayerReader
+2016-06-28 12:32:39,515 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/players.dat
+2016-06-28 12:32:39,518 main DEBUG a00977249.Gis - ScoreReader
+2016-06-28 12:32:39,519 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/scores.dat
+2016-06-28 12:32:39,549 main INFO  a00977249.Gis - 2016-06-28T19:32:39.549Z
+2016-06-28 12:33:08,782 main INFO  a00977249.Gis - 2016-06-28T19:33:08.052Z
+2016-06-28 12:33:08,885 main DEBUG a00977249.Gis - Created Gis
+2016-06-28 12:33:08,886 main DEBUG a00977249.Gis - GameReader
+2016-06-28 12:33:08,887 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/games.dat
+2016-06-28 12:33:08,894 main DEBUG a00977249.Gis - PersonaReader
+2016-06-28 12:33:08,894 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/personas.dat
+2016-06-28 12:33:08,896 main DEBUG a00977249.Gis - PlayerReader
+2016-06-28 12:33:08,896 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/players.dat
+2016-06-28 12:33:08,899 main DEBUG a00977249.Gis - ScoreReader
+2016-06-28 12:33:08,900 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/scores.dat
+2016-06-28 12:33:08,958 main DEBUG a00977249.Gis - Added 25 scores to 11 personas
+2016-06-28 12:33:08,958 main DEBUG a00977249.Gis - Leaderboard has 18 entries
+2016-06-28 12:33:08,959 main INFO  a00977249.Gis - 2016-06-28T19:33:08.958Z
+2016-06-28 12:57:23,747 main INFO  a00977249.Gis - 2016-06-28T19:57:22.586Z
+2016-06-28 12:57:23,886 main DEBUG a00977249.Gis - Created Gis
+2016-06-28 12:57:23,902 main DEBUG a00977249.Gis - GameReader
+2016-06-28 12:57:23,902 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/games.dat
+2016-06-28 12:57:23,971 main DEBUG a00977249.Gis - PersonaReader
+2016-06-28 12:57:23,971 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/personas.dat
+2016-06-28 12:57:24,011 main DEBUG a00977249.Gis - PlayerReader
+2016-06-28 12:57:24,011 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/players.dat
+2016-06-28 12:57:24,063 main DEBUG a00977249.Gis - ScoreReader
+2016-06-28 12:57:24,064 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/scores.dat
+2016-06-28 12:57:24,152 main INFO  a00977249.Gis - 2016-06-28T19:57:24.151Z
+2016-06-28 14:25:18,283 main INFO  a00977249.Gis - 2016-06-28T21:25:14.999Z
+2016-06-28 14:25:18,468 main DEBUG a00977249.Gis - Created Gis
+2016-06-28 14:25:18,568 main DEBUG a00977249.Gis - GameReader
+2016-06-28 14:25:18,569 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/games.dat
+2016-06-28 14:25:18,619 main DEBUG a00977249.Gis - PersonaReader
+2016-06-28 14:25:18,619 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/personas.dat
+2016-06-28 14:25:18,639 main DEBUG a00977249.Gis - PlayerReader
+2016-06-28 14:25:18,639 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/players.dat
+2016-06-28 14:25:18,664 main DEBUG a00977249.Gis - ScoreReader
+2016-06-28 14:25:18,665 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/scores.dat
+2016-07-18 12:32:53,460 main INFO  a00977249.Gis - 2016-07-18T19:32:51.848Z
+2016-07-18 12:32:53,778 main DEBUG a00977249.Gis - Created Gis
+2016-07-18 12:32:53,791 main DEBUG a00977249.Gis - GameReader
+2016-07-18 12:32:53,791 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/games.dat
+2016-07-18 12:32:53,848 main DEBUG a00977249.Gis - PersonaReader
+2016-07-18 12:32:53,848 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/personas.dat
+2016-07-18 12:32:53,875 main DEBUG a00977249.Gis - PlayerReader
+2016-07-18 12:32:53,876 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/players.dat
+2016-07-18 12:32:53,907 main DEBUG a00977249.Gis - ScoreReader
+2016-07-18 12:32:53,908 main DEBUG a00977249.Gis - /Users/SIA/Documents/workspace/A00977249Assignment1/scores.dat
+2016-07-18 12:32:53,962 main INFO  a00977249.Gis - 2016-07-18T19:32:53.962Z
